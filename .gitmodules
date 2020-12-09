@@ -7,3 +7,6 @@
 [submodule "busticketapp-angular-ui"]
 	path = busticketapp-angular-ui
 	url = https://github.com/sf-fresher-batch-2020/busticketapp-angular-ui.git
+[submodule "busticketapp-mock-api"]
+	path = busticketapp-mock-api
+	url = https://github.com/sf-fresher-batch-2020/busticketapp-mock-api.git
